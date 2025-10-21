@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical 7</string>
+    <string-array name="">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Oragne</item>
+    </string-array>
+</resources> 
